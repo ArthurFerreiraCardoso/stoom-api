@@ -49,6 +49,7 @@
 - Mapper
 - Swagger
 - Lombok
+- Arquivo 'data.sql' com dados pré definidos
 <hr>
 
 <h3 id="documentacao"> Acesso a documentação da API</h3>
