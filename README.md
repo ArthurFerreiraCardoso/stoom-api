@@ -1,3 +1,8 @@
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/c72e9208-073d-40b1-8cd6-e975daa52f5c" width="700px" />
+</div>
+
 <h1 align="center" > Stoom <b style="color: #03A9F5;">API</b> </h1>
 
 <h3> O que é o projeto? </h3>
